@@ -3,13 +3,14 @@ const Theme = {
     text: {
       primary: "#999999)",
       secondary: "#FFFFFF",
+      tertiary: "#F39C14",
     },
     warning: "",
     success: "",
     background: {
       default: "#1E1E1E",
       primary: "#080808",
-      secondary: "#7F01C8",
+      secondary: "#7B7B7B",
       tertiary: {
         tertiary_1: "#1BC4F5",
         tertiary_2: "#C90E31",
@@ -20,6 +21,7 @@ const Theme = {
         tertiary_7: "#0A5685",
         tertiary_8: "#005841",
         tertiary_9: "#001D35",
+        tertiary_10: "#7F01C8",
       },
       step: {
         primary: "#",
