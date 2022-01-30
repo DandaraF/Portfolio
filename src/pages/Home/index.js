@@ -1,10 +1,12 @@
 import * as S from "./styles";
-import { Menu } from "../../components";
+import { Menu, Footer } from "../../components";
 
 const Home = () => {
   return (
     <S.Container>
       <Menu />
+      <br />
+      <Footer />
     </S.Container>
   );
 };
