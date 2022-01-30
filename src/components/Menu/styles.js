@@ -17,9 +17,9 @@ export const Content = styled.div`
 `;
 
 export const Logo = styled.div`
-  font-size: 2.1rem;
+  font-size: 1.8rem;
   font-family: "Mochiy Pop P One", sans-serif;
-  color: ${(props) => props.theme.palette.background.tertiary.tertiary_2};
+  color: ${(props) => props.theme.palette.text.tertiary};
 `;
 
 export const Menu = styled.div`

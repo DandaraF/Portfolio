@@ -7,10 +7,6 @@ const GlobalStyle = createGlobalStyle`
     font-size: 10px;
     color: ${(props) => props.theme.palette.text.primary};
     background-color: ${(props) => props.theme.palette.background.default};
-    /* font-family: 'Roboto', sans-serif; */
-
-
-
   }
 
   *{
