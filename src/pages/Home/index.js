@@ -1,14 +1,8 @@
-import * as S from "./styles";
-import { Menu, Footer } from "../../components";
+// import * as S from "./styles";
+import { Layout } from "../../components";
 
 const Home = () => {
-  return (
-    <S.Container>
-      <Menu />
-      <br />
-      <Footer />
-    </S.Container>
-  );
+  return <Layout>TESTE</Layout>;
 };
 
 export default Home;
