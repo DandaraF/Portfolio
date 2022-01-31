@@ -1,6 +1,6 @@
 import * as S from "./styles";
 
-const Menu = () => {
+const Header = () => {
   return (
     <S.Container>
       <S.Content>
@@ -16,4 +16,4 @@ const Menu = () => {
   );
 };
 
-export default Menu;
+export default Header;
